@@ -8,9 +8,11 @@
 
 会议：
 
-
-
-1. International Conference on Research in Computational Molecular Biology (RECOMB)
+国际基因组学和基因组医学会议（International Conference on Genomics and Genomic Medicine, ICGGM）
+ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB)
+ Intelligent Systems for Molecular Biology (ISMB)
+IEEE International Conference on Computational Advances in Bio and Medical Sciences (ICCABS)
+1.The Annual International Conference on Research in Computational Molecular Biology (RECOMB)
 
 2. International Conference on Intelligent Biology and Medicine (ICIBM)
 
